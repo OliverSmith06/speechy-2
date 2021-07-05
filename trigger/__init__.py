@@ -1,0 +1,1 @@
+from .activated import listenForCommand
